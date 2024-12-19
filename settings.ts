@@ -8,18 +8,18 @@
 export const settings = {
     embed_data: {
         "Site Name": "Uploaded at: %file_upload_timestamp%",
-        "Title": "upio's image host | %file_name%",
-        "Description": "erm what the flip mane this file is literally %file_size% big but like erm i uploaded %uploaded_files% files",
+        "Title": "Alhntoshi",
+        "Description": "",
         "Color": "#7289da",
     },
 
     site: {
-        "Title": "upio's image host",
-        "Description": "erm what the flip",
+        "Title": "Alhntoshi",
+        "Description": "",
         "Show Credits": true,
     },
 
-    page_redirect: "https://www.upio.dev/"
+    page_redirect: "https://www.alhntoshi.site/"
 }
 
 export const upload_limit = 5; // MB
